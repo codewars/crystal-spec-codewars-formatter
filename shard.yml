@@ -1,4 +1,4 @@
 name: spec_codewars_formatter
-version: 0.0.1
-crystal: 0.34.0
+version: 0.1.0
+crystal: ">= 0.34.0"
 license: MIT
